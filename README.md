@@ -1,4 +1,4 @@
-# Foundations-Project-ReCell
+# ReCell
 
 ## Business Context
 
